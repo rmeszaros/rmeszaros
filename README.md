@@ -1,10 +1,10 @@
 # Hi, I'm Rita 👋
 
 ## What I Build
-AI PO/PM bridging data science and real users — from LLM/RAG infrastructure to ML-powered products. I focus on shipping things that actually work at scale.
+AI PO/PM bridging data science and real users - from LLM/RAG infrastructure to ML-powered products. I focus on shipping things that actually work at scale.
 
 ## What I'm Working On
-- 🔨 Exploring AI-powered productivity tools — side projects at the intersection of GenAI and workflow automation
+- 🔨 Exploring AI-powered productivity tools - side projects at the intersection of GenAI and workflow automation
 - 📚 Deepening my LLMOps & context engineering practice
 - 🤝 Here to share experiments and learn in public
 
