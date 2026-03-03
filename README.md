@@ -12,7 +12,7 @@ AI PO/PM bridging data science and real users - from LLM/RAG infrastructure to M
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
-| [Project 1](link) | [One line] | Python, OpenAI |
+| [Competitor Monitor](https://github.com/rmeszaros/competitor-monitor) | Automated competitor monitoring with AI-powered change detection and weekly digests | Python, Claude API |
 | [Project 2](link) | [One line] | Claude API, Notion |
 | [Project 3](link) | [One line] | Zapier, GPT-4 |
 
