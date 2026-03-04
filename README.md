@@ -14,7 +14,7 @@ AI PO/PM bridging data science and real users - from LLM/RAG infrastructure to M
 |---------|-------------|-------|
 | [Competitor Monitor](https://github.com/rmeszaros/competitor-monitor) | Automated competitor monitoring with AI-powered change detection and weekly digests | Python, Claude API |
 | [Hallucination Detector](https://github.com/rmeszaros/hallucination-detector-tool) | CLI tool that breaks LLM responses into claims and verifies each one against a source document for factual accuracy | Python, Claude API |
-| [Project 3](link) | [One line] | Zapier, GPT-4 |
+| [PRD-to-Ticket Converter](https://github.com/rmeszaros/prd-to-ticket-converter) | Converts narrative PRDs into structured engineering tickets with user stories, acceptance criteria, and effort estimates | Python, Claude API |
 
 ## Connect
 - 💼 [LinkedIn](https://linkedin.com/in/ritameszaros)
