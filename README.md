@@ -13,7 +13,7 @@ AI PO/PM bridging data science and real users - from LLM/RAG infrastructure to M
 | Project | What It Does | Stack |
 |---------|-------------|-------|
 | [Competitor Monitor](https://github.com/rmeszaros/competitor-monitor) | Automated competitor monitoring with AI-powered change detection and weekly digests | Python, Claude API |
-| [Project 2](link) | [One line] | Claude API, Notion |
+| [Hallucination Detector](https://github.com/rmeszaros/hallucination-detector-tool) | CLI tool that breaks LLM responses into claims and verifies each one against a source document for factual accuracy | Python, Claude API |
 | [Project 3](link) | [One line] | Zapier, GPT-4 |
 
 ## Connect
