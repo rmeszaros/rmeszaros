@@ -1,7 +1,7 @@
 # Hi, I'm Rita 👋
 
 ## What I Build
-AI PO/PM bridging data science and real users - from LLM/RAG infrastructure to ML-powered products. I focus on shipping things that actually work at scale.
+I spend my days leading data science and data engineering teams building ML-powered products across LLM, RAG, and computer vision. Off the clock, I'm a generalist AI enthusiast - because the curiosity doesn't really switch off.
 
 ## What I'm Working On
 - 🔨 Exploring AI-powered productivity tools - side projects at the intersection of GenAI and workflow automation
