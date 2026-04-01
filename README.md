@@ -1,7 +1,7 @@
 # Hi, I'm Rita 👋
 
 ## What I Build
-I spend my days leading data science and data engineering teams building ML-powered products across LLM, RAG, and computer vision. Off the clock, I'm a generalist AI enthusiast - because the curiosity doesn't really switch off.
+I spend my days leading data science and data engineering teams across the full ML spectrum: predictive models, computer vision, and generative AI applications. Off the clock, I'm a generalist AI enthusiast - because the curiosity doesn't really switch off.
 
 ## What I'm Working On
 - 🔨 Exploring AI-powered productivity tools - side projects at the intersection of GenAI and workflow automation
